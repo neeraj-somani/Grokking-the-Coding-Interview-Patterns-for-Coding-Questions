@@ -1,3 +1,6 @@
+# what is Sliding Window pattern:
+The Sliding Window pattern is used to perform a required operation on a specific window size of a given array or linked listThe Sliding Window pattern is used to perform a required operation on a specific window size of a given array or linked list
+
 # Following are some ways you can identify that the given problem might require a sliding window:
 
 - The problem input is a linear data structure such as a linked list, array, or string
