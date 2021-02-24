@@ -12,5 +12,9 @@ This approach is quite useful when dealing with cyclic linked lists or arrays.
 - There are some cases where you shouldn’t use the Two Pointer approach such as in a singly linked list where you can’t move in a backwards direction. 
 - An example of when to use the Fast and Slow pattern is when you’re trying to determine if a linked list is a palindrome.
 
+## Problems featuring the fast and slow pointers pattern:
 
+- Linked List Cycle (easy)
+- Palindrome Linked List (medium)
+- Cycle in a Circular Array (hard)
 
